@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Rafsniper
+ * @author slorenzorodriguez
  */
 public class FutbolistaHM extends SeleccionFutbolHM implements DeportistaInterface,IntegranteInterface {
     

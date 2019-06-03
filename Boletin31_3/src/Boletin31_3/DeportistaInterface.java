@@ -3,7 +3,7 @@ package Boletin31_3;
 
 /**
  *
- * @author Rafsniper
+ * @author slorenzorodriguez
  */
 public interface DeportistaInterface {
     default public void entrenar(){
