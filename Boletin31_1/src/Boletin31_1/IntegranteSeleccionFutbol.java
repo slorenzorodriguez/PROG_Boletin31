@@ -3,7 +3,7 @@ package Boletin31_1;
 
 /**
  *
- * @author Rafsniper
+ * @author slorenzorodriguez
  */
 public interface IntegranteSeleccionFutbol {
     

@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Rafsniper
+ * @author slorenzorodriguez
  */
 public abstract class SeleccionFutbol implements IntegranteSeleccionFutbol {
     private int id;

@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Rafsniper
+ * @author slorenzorodriguez
  */
 public class Boletin31_1 {
 
