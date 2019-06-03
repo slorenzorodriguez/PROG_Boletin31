@@ -16,9 +16,9 @@ public class Boletin31_1 {
         // Usamos un ArrayList de tipo SeleccionFutbol para poder engadir todas as demás clases xa que extenden de esta
         ArrayList<SeleccionFutbol> lSelec = new ArrayList<>();
 
-        Futbolista fut = new Futbolista(94, "delantero", 1, "Fran", "Collazo", 22);
-        Entrenador ent = new Entrenador(124, 2, "Maria", "Vez", 35);
-        Masajista mas = new Masajista("Master", 10, 3, "Oliver", "Perez", 45);
+        Futbolista fut = new Futbolista(94, "delantero", 1, "Ricardo", "Galloso", 22);
+        Entrenador ent = new Entrenador(124, 2, "Gemma", "Vazquez", 35);
+        Masajista mas = new Masajista("Master", 10, 3, "Esteban", "Fernandez", 45);
         
         lSelec.add(fut);
         lSelec.add(ent);
