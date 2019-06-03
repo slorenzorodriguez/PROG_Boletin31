@@ -3,7 +3,7 @@ package Boletin31_2;
 
 /**
  *
- * @author Rafsniper
+ * @author slorenzorodriguez
  */
 public class Masajista extends SeleccionFutbol {
 

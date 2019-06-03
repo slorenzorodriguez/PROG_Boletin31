@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Rafsniper
+ * @author slorenzorodriguez
  */
 public class Futbolista extends SeleccionFutbol {
     
